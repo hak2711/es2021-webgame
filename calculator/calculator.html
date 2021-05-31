@@ -72,6 +72,11 @@
     };
 
     const onClickOperator = (event) => {
+      if (operator) {
+        // self check : 연달아 계산하기
+        numOne = $result.value;
+        numTwo = "";
+      }
       if (numOne) {
         operator = event.target.textContent;
         $operator.value = event.target.textContent;
