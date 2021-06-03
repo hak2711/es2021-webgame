@@ -10,7 +10,7 @@ practicing JavaScript ES2021 by making web games !
 <ol>
   <li>끝말잇기 word-relay</li>
   <li>계산기 calculator</li>
-  <li>숫자야구 number-baseball/li>
+  <li>숫자야구 number-baseball</li>
 </ol>
 
 <br>
