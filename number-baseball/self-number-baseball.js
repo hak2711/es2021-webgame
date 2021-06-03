@@ -3,10 +3,9 @@ const $form = document.querySelector("#form");
 const $logs = document.querySelector("#logs");
 let out = 0;
 
-const numbers = [];
-for (let n = 0; n < 9; n += 1) {
-  numbers.push(n + 1);
-}
+const numbers = Array(9).fill(0).map((element,i) => {
+  return i+1;
+});
 
 const answer = [];
 for (let n = 0; n < 4; n += 1) {
