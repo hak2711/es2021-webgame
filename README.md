@@ -8,9 +8,10 @@ practicing JavaScript ES2021 by making web games !
 ### Contents
 
 <ol>
-  <li>끝말잇기 word-relay</li>
-  <li>계산기 calculator</li>
-  <li>숫자야구 number-baseball</li>
+  <li> 끝말잇기 word-relay 🆎</li>
+  <li> 계산기 calculator ➕➖✖➗</li>
+  <li> 숫자야구 number-baseball ⚾</li>
+  <li>로또 추첨기 lotto 🎰🎉</li>
 </ol>
 
 <br>
